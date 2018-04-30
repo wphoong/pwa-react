@@ -1,0 +1,16 @@
+{
+  "short_name": "PWA React App",
+  "name": "A PWA React App",
+  "icons": [
+    {
+      "src": "musefind.png",
+      "sizes": "512x512 192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
